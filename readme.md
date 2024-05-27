@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/forgiatoss/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/IMG_1484.jpeg" alt="Me" width="75" height="75">
   </a>
